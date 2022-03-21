@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MikeY be mean!</title>
+  </head>
+  <body>
+
+    <!-- 2. Include the tag for introductory content -->
+    <header>
+      <h1>
+      MikeY be mean!
+      </h1>
+    
+      But, why?
+      <nav>
+          <ul>
+      <li><a target="_blank" href ="https://www.youtube.com/watch?v=XB3EQrj1maw">Wario</a></li>
+      <li><a target="_blank" href ="https://www.youtube.com/watch?v=rX5owpTm8kY&ab_channel=Matster">Winnin lottery numbers</a></li>
+      <li><a target="_blank" href ="https://www.youtube.com/watch?v=ICyUPF5vTBs&ab_channel=FuckthaCistem">Haramarama</a></li>
+      <li><a target="_blank" href ="https://www.youtube.com/watch?v=s4prEo2ts8g&ab_channel=TheUnholyBoink">Angelic voices</a></li>
+      </ul></nav>
+        </header>
+        <main>
+
+      <!-- 4. Include a tag that groups the 'About' and 'Topics' content -->
+        <!-- Level 2 section heading, followed by a paragraph -->
+        <section>
+          <h2>About the MikeY</h2>
+        <p>He's traveled around the sun 11 times! Sometimes he did it without pants on! wOooo00o0o0Oo0ow!</p>
+        
+        <!-- Level 3 heading, followed by an unordered list -->
+        <h3>The but, why's:</h3>
+          <ul>
+          <li>Creative</li>
+          <li>Intelligent</li>
+          <li>Kind</li>
+          </ul> 
+      </section>
+
+
+      <!-- 5. Add an element that groups the 'Speakers' content -->
+        <!-- Level 2 section heading -->
+        <section>
+          <h2>MikeY's faves</h2>
+
+        <!-- Each speaker name should be a level 3 heading, followed by a paragraph -->
+        <h3>Colors</h3>
+        <p>Purple, black, blue, red, green, anything that's a color.</p>
+
+         <h3>Food</h3>
+        <p>Pizza, chicken nuggets, mac n cheese, his mom's curries, his pernani's biryani, roasted mommy, his chacha's haleem, nihari, and chicken 65</p>
+
+         <h3>Animals</h3>
+        <p>Cats, rotting dead ones, fresh dead ones, and cute alive ones</p> 
+          </section>
+
+
+      <!-- 6. Include the tag for content that is related to, but separate from, surrounding content -->
+        <!-- Level 3 heading -->
+        <aside>
+          <h3>What neighbors are saying</h3>
+      
+          <!-- Write the markup for each quote - include a citation element -->
+          <blockquote>"I've been concerned about the late night screaming"
+          <footer><cite>- neighbor who's likely a snitch</cite></footer></blockquote>
+
+          <blockquote>"He's such a cutie!"
+          <footer><cite>- Neighbor who can't see well</cite></footer></blockquote>
+
+        </aside>
+      <!-- 7. Add an element that groups the 'Schedule' content -->
+        <!-- Level 2 section heading -->
+        <section>
+          <h2>Schedule</h2> 
+      
+        <!-- Display the schedule as an ordered list -->
+      <ol>
+        <li>
+          <h3>School days</h3> 
+        <p>At Willow Oak Montessori</p>
+        8:10am-3:20pm</li> 
+    
+        <li><h3>Saturdays</h3>
+        <p>Whatever mom says pretty much</p>
+        10:00am-12:00am</li>
+
+        <li><h3>Sundays</h3>
+        <p>Comfy in home locations</p>
+        10:00am-8:00pm</li>
+      </ol>
+          </section>
+      </main>
+      <!-- 8. Include the tag for footer content. Link 'Treehouse' to the Treehouse website. -->
+    <footer>&copy; MikeY is Awesome 2022 is presented by <cite><a target ="_blank" href="https://www.facebook.com/sheroseb/">Mama!</a></cite></footer>
+
+  </body>
+</html>
